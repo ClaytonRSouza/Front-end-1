@@ -1,0 +1,48 @@
+body {
+  background-color: lightblue;
+  font-family: 3;
+
+}
+
+header {
+  width: 100%;
+}
+
+.imgHeader1 {
+  width: 80px;
+}
+
+.p1 {
+  font-size: 38px;
+  font-weight: bold;
+}
+
+.imgbanner {
+  width: 90%;
+  border-radius: 15px;
+  box-shadow: 2px 2px 20px #000
+}
+
+.center {
+  text-align: center;
+}
+
+.poster {
+  border-radius: 15px;
+  box-shadow: 2px 2px 20px #000;
+}
+
+section {
+  width: 70%;
+  float: left;
+}
+
+aside {
+  width: 30%;
+  float: right;
+}
+
+p {
+  margin: 20px;
+  font-size: 35px;
+}
