@@ -1,0 +1,10 @@
+.appContainer {
+  text-align: center;
+  padding: 20px;
+}
+
+.cardsContainer {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}

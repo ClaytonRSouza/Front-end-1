@@ -1,0 +1,33 @@
+.cardContainer {
+    width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 10px;
+    text-align: center;
+    cursor: pointer;
+    background-color: #00838F;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.cardContainer.clicado {
+    background-color: #18FFFF;
+    color: antiquewhite;
+}
+
+.cardImagem {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+
+.cardTitulo {
+    font-size: 1.5rem;
+    margin: 10px 0;
+}
+
+.cardTexto {
+    font-size: 1rem;
+    color: #2e2e2e;
+}
