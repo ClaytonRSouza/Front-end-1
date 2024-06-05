@@ -1,0 +1,11 @@
+.buttonContainer {
+    background-color: rgb(116, 185, 185);
+    padding: 8px;
+    font-size: 16px;
+    border-width: 0;
+    border-radius: 4px;
+
+    &:hover {
+        background-color: rgb(74, 145, 145);
+    }
+}

@@ -1,0 +1,56 @@
+.header {
+    padding: 16px;
+    width: 100%;
+    background-color: powderblue;
+    margin-bottom: 32px;
+}
+
+.inputContainer {
+    padding: 16px;
+}
+
+.inputLabel {
+    margin-right: 8px;
+    font-size: 24px;
+    color: rgb(235, 23, 65);
+}
+
+.input {
+    width: 450px;
+    height: 40px;
+    border-color: crimson;
+    border-radius: 8px;
+}
+
+.addButton {
+    width: 40px;
+    height: 40px;
+    background-color: powderblue;
+    font-size: 24px;
+    border-color: rgb(32, 211, 235);
+    border-radius: 8px;
+    margin-left: 8px;
+}
+
+.deleteButton {
+    width: 40px;
+    height: 40px;
+    background-color: lightsalmon;
+    font-size: 24px;
+    border-color: rgb(238, 54, 54);
+    border-radius: 8px;
+    margin-left: 8px;
+}
+
+.listItem {
+    padding: 16px;
+    font-size: 20px;
+    background-color: rgb(231, 252, 113);
+}
+
+.list {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin-top: 16px;
+}
