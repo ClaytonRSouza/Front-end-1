@@ -1,0 +1,30 @@
+.characterContainer {
+    background-image: url("https://images.hdqwalls.com/wallpapers/harry-potter-20th-anniversary-return-to-hogwarts-2023-l2.jpg");
+    background-size: cover;
+    /* Cobrir todo o contêiner */
+    background-position: center;
+    /* Centralizar a imagem */
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cardContainer {
+    width: 300px;
+    border-radius: 8px;
+    padding: 16px;
+    text-align: center;
+    margin: 10px;
+    background-image: linear-gradient(45deg, #ae7f5165, #f7bb2353);
+    color: blanchedalmond;
+    font-family: Cinzel, serif;
+    font-size: 18px;
+}
+
+.cardContainerImg {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
